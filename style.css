@@ -1,0 +1,97 @@
+html, body{
+  font-family: 'Open sans', sans-serif;
+  margin:0%;
+
+}
+
+.Cont{
+  width: 626px;
+  margin: auto;
+  text-align: center;
+}
+
+.Cont img{
+  margin-top: 64px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-weight: normal ;
+  color: #3f3d56;
+}
+
+strong {
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  color: #ee24ff;
+}
+
+p{
+  font-family: 'Open sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  margin-top: 25px;
+  color: #828282;
+  margin-bottom: 0%;
+}
+
+.sep{
+  font-family: 'Open sans', sans-serif;
+  font-family: 15px;
+  line-height: auto;
+  margin-top: 32px;
+  text-align: center;
+  color: #828282;
+}
+
+.Cont span{
+  color: #828282;
+  font-weight: bold;
+}
+
+b{
+  font-weight: bold;
+  color: #3f3d56;
+}
+
+.rod{
+  text-align: center;
+  margin-top: 64px;
+}
+
+.line{
+  width: 391px;
+  margin:auto;
+  line-height: 16px;
+  border: 3px #eceff2 solid;
+}
+
+a{
+  font-size: 15px;
+  text-decoration: none;
+  top: 10px;
+  position: relative;
+}
+
+.rod a+a{
+  margin-left: 42px;
+}
+
+.footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.footer img {
+  width: 100%;
+  height: 150px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+    
+
+
+
